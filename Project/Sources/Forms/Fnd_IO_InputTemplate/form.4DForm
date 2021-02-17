@@ -1,0 +1,295 @@
+﻿{
+	"destination": "detailScreen",
+	"inheritedForm": "Fnd_IO_InputForm",
+	"rightMargin": 19,
+	"bottomMargin": 20,
+	"markerBody": 377,
+	"markerBreak": 377,
+	"markerFooter": 377,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onActivate",
+		"onDataChange",
+		"onCloseBox",
+		"onResize"
+	],
+	"pageFormat": {
+		"paperName": "US Letter",
+		"paperWidth": "612pt",
+		"paperHeight": "792pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Rectangle1": {
+					"type": "rectangle",
+					"top": 0,
+					"left": 469,
+					"width": 383,
+					"height": 357,
+					"fill": "#FFFFC0",
+					"stroke": "transparent"
+				},
+				"Fnd_IO_HideThisText3": {
+					"type": "text",
+					"top": 3,
+					"left": 476,
+					"width": 376,
+					"height": 338,
+					"stroke": "#EE0000",
+					"class": "Default",
+					"text": "Copy the items from this page to your new input form\r\rEnable these form events:\r  - On Load\r  - On Validate\r  - On Activate\r  - On Close Box\r  - On Outside Call\r  - On Clicked\r  - On Data Change\r  - On Resize\r\rInherit the Fnd_IO_InputForm form\r\rAssociate and Activate the Fnd_Shell, then select <None>\r\rSet the window size to 450 x 300 (optional)\r\rCall Fnd_IO_InputFormMethod from the form method\r\rModify the field labels and field objects as needed\r\rDelete this help object"
+				},
+				"Text10": {
+					"type": "text",
+					"top": 51,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?2>: "
+				},
+				"Fnd_IO_Field1": {
+					"type": "input",
+					"top": 20,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field2": {
+					"type": "input",
+					"top": 51,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text5": {
+					"type": "text",
+					"top": 20,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?1>: "
+				},
+				"Text1": {
+					"type": "text",
+					"top": 113,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?4>: "
+				},
+				"Fnd_IO_Field3": {
+					"type": "input",
+					"top": 82,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field4": {
+					"type": "input",
+					"top": 113,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text2": {
+					"type": "text",
+					"top": 82,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?3>: "
+				},
+				"Text3": {
+					"type": "text",
+					"top": 175,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?6>: "
+				},
+				"Fnd_IO_Field5": {
+					"type": "input",
+					"top": 144,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field6": {
+					"type": "input",
+					"top": 175,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text4": {
+					"type": "text",
+					"top": 144,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?5>: "
+				},
+				"Text6": {
+					"type": "text",
+					"top": 237,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?8>: "
+				},
+				"Fnd_IO_Field7": {
+					"type": "input",
+					"top": 206,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field8": {
+					"type": "input",
+					"top": 237,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text7": {
+					"type": "text",
+					"top": 206,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?7>: "
+				}
+			}
+		}
+	],
+	"editor": {
+		"groups": {
+			"Group3": [
+				"Rectangle1",
+				"Fnd_IO_HideThisText3"
+			]
+		},
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {},
+			"View 4": {},
+			"View 5": {},
+			"View 6": {},
+			"View 7": {},
+			"View 8": {},
+			"View 9": {}
+		}
+	}
+}

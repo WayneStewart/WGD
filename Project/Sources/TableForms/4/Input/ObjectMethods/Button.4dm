@@ -1,0 +1,1 @@
+PDF_ShowDocument(Table:C252(->[Client:4]); [Client:4]ID:1; "Disability Certificate")

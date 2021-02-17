@@ -1,0 +1,138 @@
+﻿{
+	"Fnd_Forms": {
+		"forms": [
+			"Fnd_IO_InputForm",
+			"Fnd_IO_InputTemplate",
+			"Fnd_IO_OutputTemplate",
+			"Fnd_Tlbr_Toolbar",
+			"Preferences"
+		]
+	},
+	"Fnd_Project_Methods": {
+		"methods": [
+			"Compiler_Fnd_Hook_Methods",
+			"Compiler_Fnd_Host_ArrayToList",
+			"Compiler_Fnd_Host_ExecuteFormul",
+			"Compiler_Fnd_Host_GetFormProp",
+			"Compiler_Fnd_Host_GetIntegerVal",
+			"Compiler_Fnd_Host_GetPictureFro",
+			"Compiler_Fnd_Host_IO_DisplayDia",
+			"Compiler_Fnd_Host_IO_Variables",
+			"Compiler_Fnd_Host_ListToArray",
+			"Compiler_Fnd_Host_Methods",
+			"Compiler_Fnd_Host_SaveList",
+			"Compiler_Fnd_Host_Tlbr",
+			"Compiler_Fnd_Host_Tlbr_ButtonCl",
+			"Compiler_Fnd_Host_Tlbr_SetBtnPi",
+			"Compiler_Fnd_Host_Tlbr_SetMessa",
+			"Fnd_Hook_IO_DisplayRecord",
+			"Fnd_Hook_IO_DisplayTable",
+			"Fnd_Hook_IO_InputFormButton",
+			"Fnd_Hook_IO_InputFormMethod",
+			"Fnd_Hook_IO_OutputFormMethod",
+			"Fnd_Hook_IO_SelectionChanged",
+			"Fnd_Hook_List_SetEditableLists",
+			"Fnd_Hook_Menu_UpdateMenuBar",
+			"Fnd_Hook_Rec_Delete",
+			"Fnd_Hook_Rec_New",
+			"Fnd_Hook_Shell_Administration",
+			"Fnd_Hook_Shell_Find",
+			"Fnd_Hook_Shell_InitPlugins",
+			"Fnd_Hook_Shell_ModifyRecords",
+			"Fnd_Hook_Shell_NavPalette",
+			"Fnd_Hook_Shell_OpenTable",
+			"Fnd_Hook_Shell_Print",
+			"Fnd_Hook_Shell_QueryEditor",
+			"Fnd_Hook_Shell_Quit",
+			"Fnd_Hook_Shell_Setup",
+			"Fnd_Hook_Shell_Sort",
+			"Fnd_Hook_Shell_SpecialFunctions",
+			"Fnd_Hook_Shell_Startup",
+			"Fnd_Hook_Shell_VirtualStructure",
+			"Fnd_Hook_SqNo_SetIDField",
+			"Fnd_Host_ArrayToList",
+			"Fnd_Host_ExecuteFormula",
+			"Fnd_Host_GetFormProperties",
+			"Fnd_Host_GetIntegerValue",
+			"Fnd_Host_GetPictureFromLibrary",
+			"Fnd_Host_IO_DisplayDialog",
+			"Fnd_Host_ListToArray",
+			"Fnd_Host_SaveList",
+			"Fnd_Host_Tlbr_ButtonClck",
+			"Fnd_Host_Tlbr_SetBtnPict",
+			"Fnd_Host_Tlbr_SetMessage"
+		]
+	},
+	"Fnd_Tables": {
+		"tables": [
+			"Fnd_List",
+			"Fnd_Pref",
+			"Fnd_SqNo"
+		]
+	},
+	"Forms": {},
+	"Foundation 5": {
+		"groups": [
+			"Fnd_Forms",
+			"Fnd_Project_Methods",
+			"Fnd_Tables"
+		]
+	},
+	"iLB ListMagic": {
+		"groups": [
+			"iLB_Forms",
+			"iLB_Project_Methods"
+		]
+	},
+	"iLB_Forms": {
+		"forms": [
+			"iLB_Output"
+		]
+	},
+	"iLB_Project_Methods": {
+		"methods": [
+			"Compiler_iLB_Arrays",
+			"Compiler_iLB_Hook_Delete_Def",
+			"Compiler_iLB_Hook_Duplicate_Def",
+			"Compiler_iLB_Host_ChoiceListsTo",
+			"Compiler_iLB_Host_ListToArray",
+			"Compiler_iLB_Host_QuickReport",
+			"Compiler_iLB_Methods",
+			"Compiler_iLB_Variables",
+			"iLB_Hook_BrowserMenu",
+			"iLB_Hook_ChoiceListToArray",
+			"iLB_Hook_Default_Def",
+			"iLB_Hook_Delete_Def",
+			"iLB_Hook_Duplicate_Def",
+			"iLB_Hook_Load_Def",
+			"iLB_Hook_Load_ViewArrays",
+			"iLB_Hook_ObjectMethod",
+			"iLB_Hook_OutputFormMethod",
+			"iLB_Hook_Save_Def",
+			"iLB_Hook_Sort",
+			"iLB_Hook_Startup",
+			"iLB_Hook_TableBrowser2",
+			"iLB_Host_ChoiceListsToArray",
+			"iLB_Host_ListToArray",
+			"iLB_Host_QuickReport"
+		]
+	},
+	"Project_Methods": {},
+	"Tables": {
+		"tables": [
+			"Client",
+			"Dog",
+			"PDF",
+			"Training",
+			"Vet"
+		]
+	},
+	"WWCC": {
+		"groups": [
+			"Forms",
+			"Project_Methods",
+			"Tables"
+		]
+	},
+	"trash": {}
+}

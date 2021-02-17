@@ -1,0 +1,56 @@
+.Default {
+	font-family: System Font;
+	font-size: 13px;
+}
+
+.Large_Bold {
+	font-family: System Font;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.Large_Plain {
+	font-family: System Font;
+	font-size: 13px;
+}
+
+.List_Header {
+	font-family: System Font;
+	font-size: 11px;
+}
+
+.List_Item {
+	font-family: System Font;
+	font-size: 12px;
+}
+
+.MacVet_ListItem {
+	font-family: Segoe UI;
+	font-size: 12px;
+}
+
+.MacVet_Small {
+	font-family: Segoe UI;
+	font-size: 11px;
+}
+
+.ReportData {
+	font-family: Segoe UI;
+	font-size: 12px;
+}
+
+.ReportHeader12 {
+	font-family: Segoe UI;
+	font-size: 12px;
+}
+
+.SmallControl {
+	font-family: Segoe UI;
+	font-size: 10px;
+}
+
+.SmallLabel {
+	font-family: Segoe UI;
+	font-size: 10px;
+}
+

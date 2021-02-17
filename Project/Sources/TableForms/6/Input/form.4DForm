@@ -1,0 +1,794 @@
+﻿{
+	"destination": "detailScreen",
+	"inheritedForm": "Fnd_IO_InputForm",
+	"width": 837,
+	"height": 467,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onActivate",
+		"onBeforeKeystroke",
+		"onDataChange",
+		"onCloseBox",
+		"onAfterKeystroke",
+		"onResize"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "842pt",
+		"paperHeight": "595pt"
+	},
+	"pages": [
+		{
+			"objects": {
+				"Text10": {
+					"type": "text",
+					"top": 51,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Client: "
+				},
+				"Client": {
+					"type": "input",
+					"top": 51,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Client.4dm",
+					"events": [
+						"onLoad",
+						"onAfterKeystroke"
+					]
+				},
+				"Dog Name": {
+					"type": "input",
+					"top": 82,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Name:3",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"DateEntry": {
+					"type": "subform",
+					"top": 109,
+					"left": 114,
+					"width": 138,
+					"height": 25,
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/DateEntry.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field5": {
+					"type": "input",
+					"top": 144,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Breed:5",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field6": {
+					"type": "input",
+					"top": 175,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Colour:6",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field7": {
+					"type": "input",
+					"top": 206,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Microchip:7",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field8": {
+					"type": "input",
+					"top": 237,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Category:8",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field9": {
+					"type": "input",
+					"top": 268,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Terms:9",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field10": {
+					"type": "checkbox",
+					"top": 299,
+					"left": 114,
+					"width": 133,
+					"height": 17,
+					"dataSource": "[Dog:6]Not Dangerous Dog:10",
+					"text": "Not Dangerous",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field13": {
+					"type": "checkbox",
+					"top": 299,
+					"left": 244,
+					"width": 123,
+					"height": 17,
+					"dataSource": "[Dog:6]Not Restricted Breed:11",
+					"text": "Not Restricted",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field2": {
+					"type": "checkbox",
+					"top": 299,
+					"left": 364,
+					"width": 83,
+					"height": 17,
+					"dataSource": "[Dog:6]Desexed:12",
+					"text": "Desexed",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Vet": {
+					"type": "input",
+					"top": 330,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Vet.4dm",
+					"events": [
+						"onLoad",
+						"onAfterKeystroke"
+					]
+				},
+				"Last Vacc": {
+					"type": "input",
+					"top": 361,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Last Vacc:14",
+					"dataSourceTypeHint": "date",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field11": {
+					"type": "input",
+					"top": 391,
+					"left": 114,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Dog:6]Last Visit:15",
+					"dataSourceTypeHint": "date",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text1": {
+					"type": "text",
+					"top": 113,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?4>: "
+				},
+				"Text2": {
+					"type": "text",
+					"top": 82,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?3>: "
+				},
+				"Text3": {
+					"type": "text",
+					"top": 175,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?6>: "
+				},
+				"Text4": {
+					"type": "text",
+					"top": 144,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?5>: "
+				},
+				"Text6": {
+					"type": "text",
+					"top": 237,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?8>: "
+				},
+				"Text7": {
+					"type": "text",
+					"top": 206,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?7>: "
+				},
+				"Fnd_IO_Field1": {
+					"type": "input",
+					"top": 20,
+					"left": 114,
+					"width": 78,
+					"height": 17,
+					"dataSource": "[Dog:6]ID:1",
+					"dataSourceTypeHint": "integer",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "raised",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text5": {
+					"type": "text",
+					"top": 20,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?1>: "
+				},
+				"Text11": {
+					"type": "text",
+					"top": 268,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?9>: "
+				},
+				"Text12": {
+					"type": "text",
+					"top": 361,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?14>: "
+				},
+				"Text13": {
+					"type": "text",
+					"top": 330,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Vet: "
+				},
+				"Text8": {
+					"type": "text",
+					"top": 391,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?15>: "
+				},
+				"Load Client": {
+					"type": "button",
+					"top": 49,
+					"left": 10,
+					"width": 94,
+					"height": 20,
+					"focusable": false,
+					"iconFrames": 4,
+					"style": "custom",
+					"borderStyle": "raised",
+					"method": "ObjectMethods/Load Client.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Tab Control": {
+					"type": "tab",
+					"top": 18,
+					"left": 467,
+					"width": 350,
+					"height": 390,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSourceTypeHint": "arrayText",
+					"labels": [
+						"Photo",
+						"Notes",
+						"PDFs"
+					],
+					"action": "GotoPage",
+					"events": [
+						"onClick"
+					]
+				},
+				"Load Vet": {
+					"type": "button",
+					"top": 328,
+					"left": 10,
+					"width": 94,
+					"height": 20,
+					"focusable": false,
+					"iconFrames": 4,
+					"style": "custom",
+					"borderStyle": "raised",
+					"method": "ObjectMethods/Load Vet.4dm",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"Fnd_IO_Field14": {
+					"type": "input",
+					"top": 51,
+					"left": 486,
+					"width": 315,
+					"height": 340,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "[Dog:6]Photo:17",
+					"dataSourceTypeHint": "picture",
+					"stroke": "#000000",
+					"class": "Large_Plain",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"contextMenu": "none",
+					"pictureFormat": "proportionalTopLeft",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Client Suggest": {
+					"type": "listbox",
+					"top": 71,
+					"left": 114,
+					"width": 333,
+					"height": 115,
+					"visibility": "hidden",
+					"sizingY": "grow",
+					"resizingMode": "legacy",
+					"rowHeight": "19px",
+					"rowHeightAutoMin": "20px",
+					"rowHeightAutoMax": "20px",
+					"showHeaders": false,
+					"selectionMode": "single",
+					"scrollbarHorizontal": "hidden",
+					"horizontalLineStroke": "transparent",
+					"verticalLineStroke": "transparent",
+					"fill": "#FFFFFF",
+					"alternateFill": "#EDF3FE",
+					"fontFamily": "System Font Regular",
+					"fontSize": 12,
+					"borderStyle": "none",
+					"method": "ObjectMethods/Client Suggest.4dm",
+					"events": [
+						"onDoubleClick",
+						"onLosingFocus"
+					],
+					"columns": [
+						{
+							"name": "Client Listing",
+							"width": 163,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"enterable": false,
+							"fill": "#FFFFFF",
+							"alternateFill": "#EDF3FE",
+							"fontFamily": "System Font",
+							"fontSize": 12,
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Encabezado7",
+								"text": "Encabezado7",
+								"fontFamily": "System Font",
+								"fontSize": 12
+							},
+							"footer": {
+								"name": "Pie7",
+								"timeFormat": "hh_mm_ss",
+								"fill": "#FFFFFF",
+								"fontFamily": "System Font",
+								"fontSize": 12
+							}
+						},
+						{
+							"name": "Client ID",
+							"dataSourceTypeHint": "number",
+							"width": 155,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"visibility": "hidden",
+							"fill": "#FFFFFF",
+							"alternateFill": "#EDF3FE",
+							"fontFamily": "System Font",
+							"fontSize": 12,
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Header1",
+								"text": "Header1",
+								"fontFamily": "System Font Regular",
+								"fontSize": 12
+							},
+							"footer": {
+								"name": "Footer1",
+								"timeFormat": "hh_mm_ss",
+								"fill": "#FFFFFF",
+								"fontFamily": "System Font Regular",
+								"fontSize": 12
+							}
+						}
+					]
+				},
+				"Vet Suggest": {
+					"type": "listbox",
+					"top": 350,
+					"left": 114,
+					"width": 333,
+					"height": 115,
+					"visibility": "hidden",
+					"sizingY": "grow",
+					"resizingMode": "legacy",
+					"rowHeight": "19px",
+					"rowHeightAutoMin": "20px",
+					"rowHeightAutoMax": "20px",
+					"showHeaders": false,
+					"selectionMode": "single",
+					"scrollbarHorizontal": "hidden",
+					"horizontalLineStroke": "transparent",
+					"verticalLineStroke": "transparent",
+					"fill": "#FFFFFF",
+					"alternateFill": "#EDF3FE",
+					"fontFamily": "System Font Regular",
+					"fontSize": 12,
+					"borderStyle": "none",
+					"method": "ObjectMethods/Vet Suggest.4dm",
+					"events": [
+						"onDoubleClick",
+						"onLosingFocus"
+					],
+					"columns": [
+						{
+							"name": "Vet Listing",
+							"width": 163,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"enterable": false,
+							"fill": "#FFFFFF",
+							"alternateFill": "#EDF3FE",
+							"fontFamily": "System Font",
+							"fontSize": 12,
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Encabezado1",
+								"text": "Encabezado7",
+								"fontFamily": "System Font",
+								"fontSize": 12
+							},
+							"footer": {
+								"name": "Pie1",
+								"timeFormat": "hh_mm_ss",
+								"fill": "#FFFFFF",
+								"fontFamily": "System Font",
+								"fontSize": 12
+							}
+						},
+						{
+							"name": "Clinic Listing",
+							"width": 120,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"fill": "#FFFFFF",
+							"alternateFill": "#EDF3FE",
+							"fontFamily": "System Font Regular",
+							"fontSize": 12,
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Header3",
+								"text": "Header3",
+								"fontFamily": "System Font Regular",
+								"fontSize": 12
+							},
+							"footer": {
+								"name": "Footer3",
+								"timeFormat": "hh_mm_ss",
+								"fill": "#FFFFFF",
+								"fontFamily": "System Font Regular",
+								"fontSize": 12
+							}
+						},
+						{
+							"name": "Vet ID",
+							"dataSourceTypeHint": "number",
+							"width": 155,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"visibility": "hidden",
+							"fill": "#FFFFFF",
+							"alternateFill": "#EDF3FE",
+							"fontFamily": "System Font",
+							"fontSize": 12,
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Header2",
+								"text": "Header1",
+								"fontFamily": "System Font Regular",
+								"fontSize": 12
+							},
+							"footer": {
+								"name": "Footer2",
+								"timeFormat": "hh_mm_ss",
+								"fill": "#FFFFFF",
+								"fontFamily": "System Font Regular",
+								"fontSize": 12
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"Fnd_IO_Field15": {
+					"type": "input",
+					"top": 51,
+					"left": 486,
+					"width": 300,
+					"height": 337,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "[Dog:6]Notes:16",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"styledText": true,
+					"allowFontColorPicker": true,
+					"scrollbarVertical": "visible",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"PDF_List_Box": {
+					"type": "listbox",
+					"top": 87,
+					"left": 487,
+					"width": 314,
+					"height": 301,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"resizingMode": "legacy",
+					"listboxType": "currentSelection",
+					"dataSource": "PDF_List_Box_i",
+					"movableRows": false,
+					"rowHeight": "19px",
+					"table": 1,
+					"highlightSet": "$PDF_List_Box_iUserSet",
+					"selectionMode": "single",
+					"scrollbarHorizontal": "automatic",
+					"horizontalLineStroke": "transparent",
+					"verticalLineStroke": "transparent",
+					"method": "ObjectMethods/PDF_List_Box.4dm",
+					"events": [
+						"onLoad",
+						"onClick",
+						"onDoubleClick",
+						"onSelectionChange",
+						"onColumnMove",
+						"onColumnResize",
+						"onHeaderClick",
+						"onBeginDragOver"
+					],
+					"columns": []
+				},
+				"Button1": {
+					"type": "button",
+					"top": 51,
+					"left": 487,
+					"width": 68,
+					"height": 22,
+					"text": "New",
+					"focusable": false,
+					"method": "ObjectMethods/Button1.4dm",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		}
+	],
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {},
+			"View 4": {},
+			"View 5": {
+				"visible": false,
+				"selectable": false,
+				"objects": [
+					"Client Suggest",
+					"Vet Suggest"
+				]
+			},
+			"View 6": {},
+			"View 7": {},
+			"View 8": {},
+			"View 9": {}
+		}
+	}
+}

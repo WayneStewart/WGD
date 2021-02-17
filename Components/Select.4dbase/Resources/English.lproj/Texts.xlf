@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+   <!--        Translation file.This file is distributed under the same license as the product package.-->
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+   <file datatype="x-STR#" original="undefined" source-language="en" target-language="en">
+      <header>
+         <prop-group name="Xliff-Editor.4dbase">
+            <prop prop-type="version">1.0</prop>
+         </prop-group>
+      </header>
+      <body>
+         <group id="100" resname="Buttons">
+            <trans-unit id="101" resname="MtB_Slct_Choose">
+               <source>Choose</source>
+               <target>Choose</target>
+            </trans-unit>
+            <trans-unit id="102" resname="MtB_Slct_Cancel">
+               <source>Cancel</source>
+               <target>Cancel</target>
+            </trans-unit>
+            <trans-unit id="103" resname="MtB_Slct_New">
+               <source>New</source>
+               <target>New</target>
+            </trans-unit>
+            <trans-unit id="104" resname="MtB_Slct_Find">
+               <source>Find</source>
+               <target>Find</target>
+            </trans-unit>
+            <trans-unit id="106" resname="MtB_Slct_Copy">
+               <source>Copy Widths</source>
+               <target>Copy Widths</target>
+            </trans-unit>
+         </group>
+         <group id="200" resname="Strings">
+            <trans-unit id="201" resname="MtB_Slct_MainText">
+               <source>Select &lt;&lt;1&gt;&gt; record.</source>
+               <target>Select &lt;&lt;1&gt;&gt; record.</target>
+            </trans-unit>
+            <trans-unit id="202" resname="MtB_Slct_ExplanatoryText">
+               <source>Please choose the &lt;&lt;1&gt;&gt; to which this &lt;&lt;2&gt;&gt; belongs.</source>
+               <target>Please choose the &lt;&lt;1&gt;&gt; to which this &lt;&lt;2&gt;&gt; belongs.</target>
+            </trans-unit>
+            <trans-unit id="203" resname="MtB_Slct_NetworkTraffic">
+               <source>Loading Data...</source>
+               <target>Loading Data...</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>

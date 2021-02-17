@@ -1,0 +1,5171 @@
+﻿{
+	"VS_Table002_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_List",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List_Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List_Blob",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table003_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_SqNo",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Group_Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Next_Number",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Recycle_Bin",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Designer_Only",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table009_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Pref",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Owner",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Type",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Value",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table002_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_List",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List_Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List_Blob",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table003_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_SqNo",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Group_Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Next_Number",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Recycle_Bin",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Designer_Only",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table004_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contacts",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contact_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "First Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Last Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "City",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "State",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Postal Code",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Country",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email Address",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Notes",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table005_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Products",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Number",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table006_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoices",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contact_ID",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice Number",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice Date",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Subtotal",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Tax",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Shipping",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Terms",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table007_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Line Items",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "LineItem_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice_ID",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product_ID",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Quantity",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sell Price",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Extended",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Number",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table008_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Info",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email Address",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Default Terms",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table009_SW": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Pref",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Owner",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Type",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Value",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table002_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_List",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List_Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List_Blob",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table003_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_SqNo",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Group_Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Next_Number",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Recycle_Bin",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Designer_Only",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table004_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contacts",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contact_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "First Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Last Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "City",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "State",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Postal Code",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Country",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email Address",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Notes",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table005_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Products",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Number",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table006_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoices",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contact_ID",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice Number",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice Date",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Subtotal",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Tax",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Shipping",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Terms",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table007_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Line Items",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "LineItem_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice_ID",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product_ID",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Quantity",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sell Price",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Extended",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Number",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table008_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Info",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email Address",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Default Terms",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table009_MY": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Pref",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Owner",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Type",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Value",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Fnd_List": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` List Editor",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NewItemDefault",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "InUseMessage",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SortButton",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DeleteButton",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "AddButton",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ListItemsLabel",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ListsLabel",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "EditorWindowTitle",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Edit One Dialog",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "OKButton",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CancelButton",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "AddButton",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DeleteButton",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SortButton",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Messages",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "UpdatingMessage",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "WaitingForRecord",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "UnableToSaveRecord",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ListIsNotAvailable",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Fnd_List_EN": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` List Editor",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Untitled Item",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "The List Editor is currently in use on another workstation.",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sort",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Delete",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Add",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Items:",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Lists:",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Editor",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Edit One Dialog",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "OK",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Cancel",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Add",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Delete",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sort",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Messages",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Updating the Lists...",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Waiting for access to the record...",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Unable to get access to save the \"<<1>>\" list record. The list has not been saved.",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "The \"<<1>>\" list is currently being edited at another workstation. Try again later.",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Fnd_List_FR": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` List Editor",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Elément sans titre",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Un autre client est en train d'utiliser l'éditeur d'énumérations.",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Trier",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Supprimer",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Ajouter",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Eléments :",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Liste des énumérations :",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Editeur d'énumérations",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Edit One Dialog",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "OK",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Annuler",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Ajouter",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Supprimer",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Trier",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Messages",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Mettant à jour les énumérations...",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "En attente d'accéder à l'enregistrement...",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Impossible d'accéder à l'enregistrement d'énumération \"<<1>>\". Cette énumération n'a pas pu être enregistrée.",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "L'énumération \"<<1>>\" est en train d'être modifiée par un autre client. Veuillez réessayer plus tard.",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table004_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contacts",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contact_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "First Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Last Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "City",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "State",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Postal Code",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Country",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email Address",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Notes",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Company*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Input Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "YourCompanyNameHere",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NameLabel",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "AddressLabel",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PhoneLabel",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "FaxLabel",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "InvoicesLabel",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "EmailLabel",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "WebSiteLabel",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "VoiceLabel",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DefaultTermsLabel",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CompanySettings",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_General_FR*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Database",
+				"ref": 1,
+				"editable": true
+			},
+			{
+				"text": "Vente de produits",
+				"ref": 2,
+				"editable": true
+			},
+			{
+				"text": "Version 5.6",
+				"ref": 3,
+				"editable": true
+			},
+			{
+				"text": "Copyright ©2014 Nelson Consulting, Inc.",
+				"ref": 4,
+				"editable": true
+			},
+			{
+				"text": "http://www.FoundationShell.com/",
+				"ref": 5,
+				"editable": true
+			},
+			{
+				"text": "  ` A localized colon string to use after labels",
+				"ref": 6,
+				"editable": true
+			},
+			{
+				"text": " :",
+				"ref": 7,
+				"editable": true
+			},
+			{
+				"text": "  ` Buttons",
+				"ref": 8,
+				"editable": true
+			},
+			{
+				"text": "OK",
+				"ref": 9,
+				"editable": true
+			},
+			{
+				"text": "Annuler",
+				"ref": 10,
+				"editable": true
+			},
+			{
+				"text": "Nouvelle Facture",
+				"ref": 11,
+				"editable": true
+			},
+			{
+				"text": "  ` Administration Dialog",
+				"ref": 12,
+				"editable": true
+			},
+			{
+				"text": "Modifier les infos de la société",
+				"ref": 13,
+				"editable": true
+			},
+			{
+				"text": "  ` Preferences",
+				"ref": 14,
+				"editable": true
+			},
+			{
+				"text": "Afficher les contacts au démarrage",
+				"ref": 15,
+				"editable": true
+			},
+			{
+				"text": "Open Records in a New Window",
+				"ref": 16,
+				"editable": true
+			},
+			{
+				"text": "Afficher les factures au démarrage",
+				"ref": 17,
+				"editable": true
+			},
+			{
+				"text": "  ` Messages",
+				"ref": 18,
+				"editable": true
+			},
+			{
+				"text": "L'adresse email n'est pas formatée correctement.",
+				"ref": 19,
+				"editable": true
+			}
+		]
+	},
+	"Loc_Invoices*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Output Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NumberColumnLabel",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DateColumnLabel",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CustomerColumnLabel",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NumberLabel",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DateLabel",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ContactLabel",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "TermsLabel",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NewButton",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SelectButton",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ClearButton",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ViewButton",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "AddItemButton",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "LookupItemButton",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DeleteItemButton",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PrintButton",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "OKButton",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CancelButton",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Invoices Included Form",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NumberColumnLabel",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DateColumnLabel",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Line Items Included Form",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "QuantityLabel",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ProductNumberLabel",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ListPriceLabel",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SellPriceLabel",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Invoice Form",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PrintTitle",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PrintBillTo",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PrintDate",
+				"ref": 31,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PrintInvoiceNo",
+				"ref": 32,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PrintTerms",
+				"ref": 33,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DescriptionLabel",
+				"ref": 34,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ExtendedPriceLabel",
+				"ref": 35,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SubtotalLabel",
+				"ref": 36,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "TaxLabel",
+				"ref": 37,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ShippingLabel",
+				"ref": 38,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "TotalLabel",
+				"ref": 39,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Attn",
+				"ref": 40,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Products_EN*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Select Product Dialog",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Number",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Select a Product",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Output Form",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Number",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Number:",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Name:",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description:",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price:",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Invoices_FR*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Output Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Numéro",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Client",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Numéro :",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date :",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Client :",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Conditions :",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nouvelle",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sélectionner...",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Effacer",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Visualiser",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Ajouter",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sélectionner",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Supprimer",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Imprimer",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "OK",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Annuler",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Invoices Included Form",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "No",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Line Items Included Form",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Qté",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf. produit",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Liste",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Chacun",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Invoice Form",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "FACTURE",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "FACTURE A",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DATE",
+				"ref": 31,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NUMÉRO",
+				"ref": 32,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CONDITIONS",
+				"ref": 33,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description",
+				"ref": 34,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 35,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sous-total",
+				"ref": 36,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "TVA",
+				"ref": 37,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Expédition",
+				"ref": 38,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 39,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Attn :",
+				"ref": 40,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Countries (FR)": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "Afrique du sud",
+				"ref": 41,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Allemagne",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Arabie Saoudite",
+				"ref": 38,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Australie",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Autriche",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Belgique",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Brésil",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Canada",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Chili",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Colombie",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Czech Republic",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Danemark",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Espagne",
+				"ref": 42,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Etats-Unis",
+				"ref": 46,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Finlande",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "France",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Grèce",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Hong Kong",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Hongrie",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Icelande",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Inde",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Irelande",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Israel",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Italie",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Japon",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Liechtenstein",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Luxembourg",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Maroc",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Méxique",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Monaco",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Norvège",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nouvelle-Zélande",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Pays-Bas",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Pérou",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Philippines",
+				"ref": 31,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Pologne",
+				"ref": 32,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Portugal",
+				"ref": 33,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Puerto Rico",
+				"ref": 34,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Roumanie",
+				"ref": 35,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Royaume-Uni",
+				"ref": 45,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Russie",
+				"ref": 36,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "San Marino",
+				"ref": 37,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Singapore",
+				"ref": 39,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Slovaquie",
+				"ref": 40,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Suède",
+				"ref": 43,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Suisse",
+				"ref": 44,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Venezuela",
+				"ref": 47,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Yugoslavie",
+				"ref": 48,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table007_FR": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Lignes",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf ligne",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf facture",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf produit",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Quantité",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prix public",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prix de vente",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "No produit",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_General*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Database",
+				"ref": 1,
+				"editable": true
+			},
+			{
+				"text": "DatabaseName",
+				"ref": 2,
+				"editable": true
+			},
+			{
+				"text": "DatabaseVersion",
+				"ref": 3,
+				"editable": true
+			},
+			{
+				"text": "DatabaseCopyright",
+				"ref": 4,
+				"editable": true
+			},
+			{
+				"text": "DatabaseURL",
+				"ref": 5,
+				"editable": true
+			},
+			{
+				"text": "  ` A localized colon string to use after labels",
+				"ref": 6,
+				"editable": true
+			},
+			{
+				"text": "Colon",
+				"ref": 7,
+				"editable": true
+			},
+			{
+				"text": "  ` Buttons",
+				"ref": 8,
+				"editable": true
+			},
+			{
+				"text": "OKButton",
+				"ref": 9,
+				"editable": true
+			},
+			{
+				"text": "CancelButton",
+				"ref": 10,
+				"editable": true
+			},
+			{
+				"text": "NewSaleButton",
+				"ref": 11,
+				"editable": true
+			},
+			{
+				"text": "  ` Administration Dialog",
+				"ref": 12,
+				"editable": true
+			},
+			{
+				"text": "EditCompanyInfo",
+				"ref": 13,
+				"editable": true
+			},
+			{
+				"text": "  ` Preferences",
+				"ref": 14,
+				"editable": true
+			},
+			{
+				"text": "ContactsAtStartup",
+				"ref": 15,
+				"editable": true
+			},
+			{
+				"text": "MultiWindowInterface",
+				"ref": 16,
+				"editable": true
+			},
+			{
+				"text": "InvoicesAtStartup",
+				"ref": 17,
+				"editable": true
+			},
+			{
+				"text": "  ` Messages",
+				"ref": 18,
+				"editable": true
+			},
+			{
+				"text": "EmailAddressError",
+				"ref": 19,
+				"editable": true
+			}
+		]
+	},
+	"VS_Table008_FR": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Infos Société",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf Société",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Siège social",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Adresse",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Téléphone",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Télécopie",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Site Web",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Conditions par défaut",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table006_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoices",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contact_ID",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice Number",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice Date",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Subtotal",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Tax",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Shipping",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Terms",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table005_FR": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Produits",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf produit",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "No produit",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Désignation",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prix public",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table007_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Line Items",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "LineItem_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoice_ID",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product_ID",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Quantity",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sell Price",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Extended",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Number",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_General_EN*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Database",
+				"ref": 1,
+				"editable": true
+			},
+			{
+				"text": "Product Sales",
+				"ref": 2,
+				"editable": true
+			},
+			{
+				"text": "Version 5.6",
+				"ref": 3,
+				"editable": true
+			},
+			{
+				"text": "Copyright ©2014 Nelson Consulting, Inc.",
+				"ref": 4,
+				"editable": true
+			},
+			{
+				"text": "http://www.FoundationShell.com/",
+				"ref": 5,
+				"editable": true
+			},
+			{
+				"text": "  ` A localized colon string to use after labels",
+				"ref": 6,
+				"editable": true
+			},
+			{
+				"text": ":",
+				"ref": 7,
+				"editable": true
+			},
+			{
+				"text": "  ` Buttons",
+				"ref": 8,
+				"editable": true
+			},
+			{
+				"text": "OK",
+				"ref": 9,
+				"editable": true
+			},
+			{
+				"text": "Cancel",
+				"ref": 10,
+				"editable": true
+			},
+			{
+				"text": "New Sale",
+				"ref": 11,
+				"editable": true
+			},
+			{
+				"text": "  ` Administration Dialog",
+				"ref": 12,
+				"editable": true
+			},
+			{
+				"text": "Edit Company Information",
+				"ref": 13,
+				"editable": true
+			},
+			{
+				"text": "  ` Preferences",
+				"ref": 14,
+				"editable": true
+			},
+			{
+				"text": "Display Contacts at Startup",
+				"ref": 15,
+				"editable": true
+			},
+			{
+				"text": "Open Records in a New Window",
+				"ref": 16,
+				"editable": true
+			},
+			{
+				"text": "Display Invoices at Startup",
+				"ref": 17,
+				"editable": true
+			},
+			{
+				"text": "  ` Messages",
+				"ref": 18,
+				"editable": true
+			},
+			{
+				"text": "The email address is not properly formatted.",
+				"ref": 19,
+				"editable": true
+			}
+		]
+	},
+	"Loc_Contacts*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Output Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NameColumnLabel",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NoNameOrCompany",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NameLabel",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "FirstNameLabel",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "LastNameLabel",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "VoiceLabel",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "FaxLabel",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NewButton",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ViewButton",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DeleteButton",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ZipCodeLabel",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "ProvinceLabel",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "StateLabel",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CompanyLabel",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "AddressLabel",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CountryLabel",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "EmailLabel",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "WebSiteLabel",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PhoneLabel",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form Messages",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "RecordWillBeSaved",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SaveChanges",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Confirm Dialog Buttons",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SaveButton",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "CancelButton",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NotYetButton",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Find Dialog",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "AnyNameField",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Fnd_Loc_EditorModules*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "Fnd_Art",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Date",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Dlg",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Find",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Gen",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_IO",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_List",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Menu",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Pref",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Rec",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Shell",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_Sort",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fnd_SqNo",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Loc_Company",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Loc_Contacts",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Loc_General",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Loc_Invoices",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Loc_Products",
+				"ref": 0,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Company_FR*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Input Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Mettre le nom de votre société ici",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Siège social :",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Adresse :",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Téléphone :",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Télécopie",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Factures",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email :",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Site Web :",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Voix",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Conditions par défaut :",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Paramètrages société",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table004_FR": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Contacts",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf Contact",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prénom",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nom",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Société",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Adresse",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Ville",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Etat",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Code postal",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Pays",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Téléphone",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Télécopie",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Site Web",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Notes",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Products*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Select Product Dialog",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SelectNumberLabel",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "SelectWindowTitle",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Output Form",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NumberColumnLabel",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NumberLabel",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "NameLabel",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DescriptionLabel",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "PriceLabel",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Invoices_EN*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Output Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Number",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Customer",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Number:",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date:",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Customer:",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Terms:",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "New",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Select...",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Clear",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "View",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Add Item",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Lookup Item",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Delete",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Print",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "OK",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Cancel",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Invoices Included Form",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "No.",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Line Items Included Form",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Qty.",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product No.",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Each",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Invoice Form",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "INVOICE",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "BILL TO",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "DATE",
+				"ref": 31,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "INVOICE #",
+				"ref": 32,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "TERMS",
+				"ref": 33,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description",
+				"ref": 34,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Extended",
+				"ref": 35,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Subtotal",
+				"ref": 36,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Tax",
+				"ref": 37,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Shipping",
+				"ref": 38,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 39,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Attn:",
+				"ref": 40,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Products_FR*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Select Product Dialog",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Numéro",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sélectionnez un produit",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Output Form",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Numéro",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Numéro :",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Désignation :",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description :",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prix public :",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Invoice Terms (EN)": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "Due on Receipt",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Net 10",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Net 30",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Net 30, 2% 10 days",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Paid",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Invoice Terms (FR)": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "Sur réception",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Net 10",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Net 30",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Net 30, 2% 10 jours",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Payée",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Countries (EN)": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "Australia",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Austria",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Belgium",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Brazil",
+				"ref": 5,
+				"editable": false,
+				"collapsed": true
+			},
+			{
+				"text": "Canada",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Chile",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Colombia",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Czech Republic",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Denmark",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Finland",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "France",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Germany",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Greece",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Hong Kong",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Hungary",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Iceland",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "India",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Ireland",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Israel",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Italy",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Japan",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Liechtenstein",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Luxembourg",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Mexico",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Monaco",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Morocco",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "New Zealand",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Norway",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Peru",
+				"ref": 31,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Philippines",
+				"ref": 32,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Poland",
+				"ref": 33,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Portugal",
+				"ref": 34,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Puerto Rico",
+				"ref": 35,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Romania",
+				"ref": 36,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Russia",
+				"ref": 37,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "San Marino",
+				"ref": 38,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Saudi Arabia",
+				"ref": 39,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Singapore",
+				"ref": 40,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Slovak Republic",
+				"ref": 41,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "South Africa",
+				"ref": 42,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Spain",
+				"ref": 43,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sweden",
+				"ref": 44,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Switzerland",
+				"ref": 45,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "The Netherlands",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "United Kingdom",
+				"ref": 46,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "United States",
+				"ref": 47,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Venezuela",
+				"ref": 48,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Yugoslavia",
+				"ref": 49,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table006_FR": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Factures",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf facture",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Réf contact",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "No facture",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Date facture",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Sous total",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "TVA",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Expédition",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Total",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Conditions",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Contacts_EN*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Output Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Name",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "<no name or company>",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Name:",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "First",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Last",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Daytime",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "New",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "View",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Delete",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Zip Code",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prov.",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "State",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company:",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address:",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Country:",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email:",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site:",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone:",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form Messages",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "This record will be saved so it can be linked to the invoice.",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Would you like to save your changes first?",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Confirm Dialog Buttons",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Save",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Cancel",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Not Yet",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Find Dialog",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Any Name Field",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Contacts_FR*": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Output Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nom",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "<aucun nom n'est spécifié>",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nom :",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Prénom",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nom de famille",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Voix",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Télécopie",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Nouveau",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Visualiser",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Supprimer",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Code postal",
+				"ref": 13,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Province",
+				"ref": 14,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Etat",
+				"ref": 15,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Société :",
+				"ref": 16,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Adresse :",
+				"ref": 17,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Pays :",
+				"ref": 18,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email :",
+				"ref": 19,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Site Web :",
+				"ref": 20,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Téléphone :",
+				"ref": 21,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Input Form Messages",
+				"ref": 22,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Cet enregistrement sera sauvegardé pour qu'il puisse être lié à la facture.",
+				"ref": 23,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Veuillez d'abord enregistrer vos modifications ?",
+				"ref": 24,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Confirm Dialog Buttons",
+				"ref": 25,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Enregistrer",
+				"ref": 26,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Annuler",
+				"ref": 27,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Pas encore",
+				"ref": 28,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Find Dialog",
+				"ref": 29,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Tout champ \"Nom\"",
+				"ref": 30,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"Loc_Company_EN*": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "  ` Input Form",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Your Company Name Here",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company:",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address:",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone:",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Invoices",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email:",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site:",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Voice",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Default Terms:",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Settings",
+				"ref": 12,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table008_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Info",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Company Name",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Address",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Phone",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Fax",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Email Address",
+				"ref": 9,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Web Site",
+				"ref": 10,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Default Terms",
+				"ref": 11,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	},
+	"VS_Table005_EN": {
+		"lineHeight": 18,
+		"editable": false,
+		"items": [
+			{
+				"text": "  ` Table Name",
+				"ref": 1,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Products",
+				"ref": 2,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "  ` Field Names",
+				"ref": 3,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product_ID",
+				"ref": 4,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Number",
+				"ref": 5,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Product Name",
+				"ref": 6,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "Description",
+				"ref": 7,
+				"editable": true,
+				"collapsed": true
+			},
+			{
+				"text": "List Price",
+				"ref": 8,
+				"editable": true,
+				"collapsed": true
+			}
+		]
+	}
+}

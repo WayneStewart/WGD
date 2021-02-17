@@ -1,0 +1,219 @@
+﻿{
+	"destination": "detailScreen",
+	"windowSizingX": "fixed",
+	"windowSizingY": "fixed",
+	"width": 400,
+	"height": 300,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onCloseBox"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "US Letter",
+		"paperWidth": "612pt",
+		"paperHeight": "792pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Pref_NavPaletteCheckbox_i": {
+					"type": "checkbox",
+					"top": 17,
+					"left": 18,
+					"width": 363,
+					"height": 21,
+					"text": "Display Navigation Palette at Startup",
+					"focusable": false,
+					"method": "ObjectMethods/Pref_NavPaletteCheckbox_i.4dm",
+					"events": [
+						"onLoad",
+						"onClick"
+					]
+				},
+				"Pref_OffscreenButton_i": {
+					"type": "button",
+					"top": 315,
+					"left": 0,
+					"width": 131,
+					"height": 21,
+					"sizingY": "move",
+					"action": "accept",
+					"shortcutKey": "[Enter]",
+					"text": "Trap Enter",
+					"focusable": false,
+					"events": [
+						"onClick"
+					]
+				},
+				"Pref_OffscreenButton_i1": {
+					"type": "button",
+					"top": 337,
+					"left": 0,
+					"width": 131,
+					"height": 21,
+					"sizingY": "move",
+					"action": "cancel",
+					"shortcutKey": ".",
+					"shortcutAccel": true,
+					"text": "Trap Cmd-.",
+					"focusable": false,
+					"events": [
+						"onClick"
+					]
+				},
+				"Contacts_AtStartupCheckbox_i": {
+					"type": "checkbox",
+					"top": 42,
+					"left": 18,
+					"width": 363,
+					"height": 21,
+					"text": "Display Control Centre at Startup",
+					"focusable": false,
+					"method": "ObjectMethods/Contacts_AtStartupCheckbox_i.4dm",
+					"events": [
+						"onLoad",
+						"onClick"
+					]
+				},
+				"Default Session Time": {
+					"type": "input",
+					"top": 115,
+					"left": 174,
+					"width": 73,
+					"height": 17,
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"numberFormat": "###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Default Session Time.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Text4": {
+					"type": "text",
+					"top": 115,
+					"left": 28,
+					"width": 136,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Default Session Time:  "
+				},
+				"Hourly Rate": {
+					"type": "input",
+					"top": 145,
+					"left": 178,
+					"width": 70,
+					"height": 17,
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"numberFormat": "$###,##0.00;-$###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Hourly Rate.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Text8": {
+					"type": "text",
+					"top": 145,
+					"left": 27,
+					"width": 136,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Hourly Rate: "
+				},
+				"Text9": {
+					"type": "text",
+					"top": 115,
+					"left": 253,
+					"width": 56,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "left",
+					"text": "(hours)"
+				},
+				"Contacts_AtStartupCheckbox_i1": {
+					"type": "checkbox",
+					"top": 67,
+					"left": 18,
+					"width": 363,
+					"height": 21,
+					"text": "Display Contacts at Startup",
+					"focusable": false,
+					"method": "ObjectMethods/Contacts_AtStartupCheckbox_i1.4dm",
+					"events": [
+						"onLoad",
+						"onClick"
+					]
+				},
+				"Tax Rate": {
+					"type": "input",
+					"top": 175,
+					"left": 179,
+					"width": 70,
+					"height": 17,
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"numberFormat": "###,##0.00 %",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Tax Rate.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Text1": {
+					"type": "text",
+					"top": 175,
+					"left": 28,
+					"width": 136,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Tax Rate: "
+				}
+			}
+		}
+	],
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {},
+			"View 4": {},
+			"View 5": {},
+			"View 6": {},
+			"View 7": {},
+			"View 8": {},
+			"View 9": {}
+		}
+	}
+}

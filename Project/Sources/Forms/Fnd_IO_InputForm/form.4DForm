@@ -1,0 +1,193 @@
+﻿{
+	"destination": "detailScreen",
+	"rightMargin": 19,
+	"bottomMargin": 20,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"pageFormat": {
+		"paperName": "US Letter",
+		"paperWidth": "612pt",
+		"paperHeight": "792pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Fnd_IO_CancelButton_i": {
+					"type": "button",
+					"top": 2,
+					"left": 1,
+					"width": 30,
+					"height": 28,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "Fnd_IO_CancelButton_i",
+					"shortcutKey": ".",
+					"shortcutAccel": true,
+					"text": "Cancel",
+					"class": "Large_Plain",
+					"focusable": false,
+					"method": "ObjectMethods/Fnd_IO_CancelButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_OKButton_i": {
+					"type": "button",
+					"top": 2,
+					"left": 1,
+					"width": 17,
+					"height": 14,
+					"sizingX": "move",
+					"sizingY": "move",
+					"dataSource": "Fnd_IO_OKButton_i",
+					"action": "accept",
+					"shortcutKey": "[Enter]",
+					"text": "Save",
+					"class": "Large_Plain",
+					"focusable": false,
+					"defaultButton": true,
+					"method": "ObjectMethods/Fnd_IO_OKButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_FirstButton_i": {
+					"type": "pictureButton",
+					"top": 2,
+					"left": 1,
+					"width": 29,
+					"height": 22,
+					"sizingY": "move",
+					"dataSource": "Fnd_IO_FirstButton_i",
+					"action": "firstRecord",
+					"shortcutKey": "[up arrow]",
+					"shortcutAccel": true,
+					"rowCount": 3,
+					"picture": "/RESOURCES/Images/Fnd_IO_FirstRec.png",
+					"switchBackWhenReleased": true,
+					"useLastFrameAsDisabled": true,
+					"method": "ObjectMethods/Fnd_IO_FirstButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_PrevButton_i": {
+					"type": "pictureButton",
+					"top": 2,
+					"left": 1,
+					"width": 28,
+					"height": 22,
+					"sizingY": "move",
+					"dataSource": "Fnd_IO_PrevButton_i",
+					"action": "previousRecord",
+					"shortcutKey": "[left arrow]",
+					"shortcutAccel": true,
+					"rowCount": 3,
+					"picture": "/RESOURCES/Images/Fnd_IO_PrevRec.png",
+					"switchBackWhenReleased": true,
+					"useLastFrameAsDisabled": true,
+					"method": "ObjectMethods/Fnd_IO_PrevButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_NextButton_i": {
+					"type": "pictureButton",
+					"top": 2,
+					"left": 1,
+					"width": 28,
+					"height": 22,
+					"sizingY": "move",
+					"dataSource": "Fnd_IO_NextButton_i",
+					"action": "nextRecord",
+					"shortcutKey": "[right arrow]",
+					"shortcutAccel": true,
+					"rowCount": 3,
+					"picture": "/RESOURCES/Images/Fnd_IO_NextRec.png",
+					"switchBackWhenReleased": true,
+					"useLastFrameAsDisabled": true,
+					"method": "ObjectMethods/Fnd_IO_NextButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_LastButton_i": {
+					"type": "pictureButton",
+					"top": 2,
+					"left": 1,
+					"width": 28,
+					"height": 22,
+					"sizingY": "move",
+					"dataSource": "Fnd_IO_LastButton_i",
+					"action": "lastRecord",
+					"shortcutKey": "[down arrow]",
+					"shortcutAccel": true,
+					"rowCount": 3,
+					"picture": "/RESOURCES/Images/Fnd_IO_LastRec.png",
+					"switchBackWhenReleased": true,
+					"useLastFrameAsDisabled": true,
+					"method": "ObjectMethods/Fnd_IO_LastButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_EscButton_i": {
+					"type": "button",
+					"top": 2,
+					"left": 1,
+					"width": 10,
+					"height": 10,
+					"dataSource": "Fnd_IO_EscButton_i",
+					"shortcutKey": "[Esc]",
+					"display": false,
+					"method": "ObjectMethods/Fnd_IO_EscButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_CloseButton_i": {
+					"type": "button",
+					"top": 2,
+					"left": 1,
+					"width": 10,
+					"height": 10,
+					"dataSource": "Fnd_IO_CloseButton_i",
+					"shortcutKey": "w",
+					"shortcutAccel": true,
+					"display": false,
+					"method": "ObjectMethods/Fnd_IO_CloseButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_HideThisPicture": {
+					"type": "picture",
+					"top": -3,
+					"left": -1,
+					"width": 70,
+					"height": 61,
+					"pictureFormat": "scaled",
+					"picture": "Images/Fnd_IO_HideThisPicture.png"
+				}
+			}
+		}
+	],
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {},
+			"View 4": {},
+			"View 5": {},
+			"View 6": {},
+			"View 7": {},
+			"View 8": {},
+			"View 9": {}
+		}
+	}
+}

@@ -1,0 +1,484 @@
+﻿{
+	"destination": "detailScreen",
+	"inheritedForm": "Fnd_IO_InputForm",
+	"width": 833,
+	"height": 791,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onActivate",
+		"onDataChange",
+		"onCloseBox",
+		"onResize"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "595pt",
+		"paperHeight": "842pt"
+	},
+	"pages": [
+		{
+			"objects": {
+				"Text10": {
+					"type": "text",
+					"top": 20,
+					"left": 447,
+					"width": 36,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Date: "
+				},
+				"Client and Dog": {
+					"type": "input",
+					"top": 20,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "left",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "raised",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Session Date": {
+					"type": "subform",
+					"top": 16,
+					"left": 493,
+					"width": 138,
+					"height": 25,
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/Session Date.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Text5": {
+					"type": "text",
+					"top": 20,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Dog: "
+				}
+			}
+		},
+		{
+			"objects": {
+				"Fnd_IO_Field3": {
+					"type": "input",
+					"top": 51,
+					"left": 94,
+					"width": 393,
+					"height": 17,
+					"dataSource": "[Training:7]Title:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Button": {
+					"type": "button",
+					"top": 49,
+					"left": 497,
+					"width": 163,
+					"height": 20,
+					"action": "nextPage",
+					"text": "Enter Detailed Notes",
+					"focusable": false,
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_Field5": {
+					"type": "input",
+					"top": 82,
+					"left": 94,
+					"width": 73,
+					"height": 17,
+					"dataSource": "[Training:7]Time_Spent:5",
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"numberFormat": "###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Fnd_IO_Field5.4dm",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field1": {
+					"type": "input",
+					"top": 82,
+					"left": 274,
+					"width": 53,
+					"height": 17,
+					"dataSource": "[Training:7]Hourly_Rate:11",
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "right",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"numberFormat": "$###,##0.00;-$###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Fnd_IO_Field1.4dm",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Print Invoice": {
+					"type": "button",
+					"top": 173,
+					"left": 94,
+					"width": 103,
+					"height": 20,
+					"text": "Print Invoice",
+					"focusable": false,
+					"method": "ObjectMethods/Print Invoice.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_Field4": {
+					"type": "input",
+					"top": 225,
+					"left": 14,
+					"width": 293,
+					"height": 506,
+					"dataSource": "[Training:7]Summary:10",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"scrollbarVertical": "visible",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Save Default": {
+					"type": "button",
+					"top": 749,
+					"left": 153,
+					"width": 121,
+					"height": 20,
+					"sizingY": "move",
+					"text": "Save Template",
+					"focusable": false,
+					"method": "ObjectMethods/Save Default.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Button2": {
+					"type": "button",
+					"top": 749,
+					"left": 294,
+					"width": 120,
+					"height": 20,
+					"sizingY": "move",
+					"text": "Load Template",
+					"focusable": false,
+					"method": "ObjectMethods/Button2.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Fnd_IO_Field6": {
+					"type": "input",
+					"top": 113,
+					"left": 274,
+					"width": 53,
+					"height": 17,
+					"dataSource": "[Training:7]Charge:6",
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "right",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"numberFormat": "$###,##0.00;-$###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field7": {
+					"type": "input",
+					"top": 144,
+					"left": 274,
+					"width": 53,
+					"height": 17,
+					"dataSource": "[Training:7]GST:7",
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "right",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"numberFormat": "$###,##0.00;-$###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field8": {
+					"type": "input",
+					"top": 175,
+					"left": 274,
+					"width": 53,
+					"height": 17,
+					"dataSource": "[Training:7]Total:9",
+					"dataSourceTypeHint": "number",
+					"stroke": "#000000",
+					"textAlign": "right",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"numberFormat": "$###,##0.00;-$###,##0.00",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text1": {
+					"type": "text",
+					"top": 200,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Brief Summary: "
+				},
+				"Text2": {
+					"type": "text",
+					"top": 51,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Title: "
+				},
+				"Text3": {
+					"type": "text",
+					"top": 113,
+					"left": 188,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?6>: "
+				},
+				"Text4": {
+					"type": "text",
+					"top": 82,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Time: "
+				},
+				"Text6": {
+					"type": "text",
+					"top": 175,
+					"left": 188,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Total: "
+				},
+				"Text7": {
+					"type": "text",
+					"top": 144,
+					"left": 188,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?7>: "
+				},
+				"Line": {
+					"type": "line",
+					"top": 34,
+					"left": 32,
+					"width": 653,
+					"visibility": "hidden",
+					"stroke": "#FF00F5"
+				},
+				"Preview Area": {
+					"type": "write",
+					"top": 83,
+					"left": 354,
+					"width": 459,
+					"height": 648,
+					"sizingX": "move",
+					"dataSource": "[Training:7]Session_Notes:8",
+					"enterable": false,
+					"focusable": false,
+					"hideFocusRing": true,
+					"dragging": "none",
+					"dropping": "none",
+					"scrollbarVertical": "automatic",
+					"dpi": 0,
+					"zoom": 75,
+					"showSelection": true,
+					"showHorizontalRuler": false,
+					"showVerticalRuler": false,
+					"events": [
+						"onDataChange",
+						"onSelectionChange",
+						"onAfterEdit"
+					]
+				},
+				"Text8": {
+					"type": "text",
+					"top": 82,
+					"left": 228,
+					"width": 36,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Rate: "
+				},
+				"Text9": {
+					"type": "text",
+					"top": 82,
+					"left": 173,
+					"width": 56,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "left",
+					"text": "(hours)"
+				}
+			}
+		},
+		{
+			"objects": {
+				"Button1": {
+					"type": "button",
+					"top": 18,
+					"left": 745,
+					"width": 68,
+					"height": 20,
+					"action": "previousPage",
+					"text": "Return",
+					"focusable": false,
+					"events": [
+						"onClick"
+					]
+				},
+				"WParea": {
+					"type": "write",
+					"top": 51,
+					"left": 13,
+					"width": 520,
+					"height": 680,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "[Training:7]Session_Notes:8",
+					"hideFocusRing": true,
+					"scrollbarVertical": "automatic",
+					"scrollbarHorizontal": "automatic",
+					"dpi": 0,
+					"showSelection": true,
+					"showPageFrames": true,
+					"showVerticalRuler": false,
+					"method": "ObjectMethods/WParea.4dm",
+					"events": [
+						"onLoad",
+						"onLosingFocus",
+						"onGettingFocus",
+						"onSelectionChange",
+						"onAfterEdit"
+					]
+				},
+				"WPwidget": {
+					"type": "subform",
+					"top": 51,
+					"left": 553,
+					"width": 260,
+					"height": 680,
+					"sizingX": "move",
+					"sizingY": "grow",
+					"detailForm": "WP_Palette",
+					"focusable": false,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable"
+				}
+			}
+		}
+	],
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {},
+			"View 4": {},
+			"View 5": {
+				"objects": [
+					"Session Date"
+				]
+			},
+			"View 6": {},
+			"View 7": {},
+			"View 8": {},
+			"View 9": {}
+		}
+	}
+}

@@ -1,0 +1,324 @@
+﻿{
+	"destination": "detailScreen",
+	"inheritedForm": "Fnd_IO_InputForm",
+	"formSizeAnchor": "PDF_ExternalArea_i",
+	"rightMargin": 20,
+	"bottomMargin": 60,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onActivate",
+		"onDataChange",
+		"onCloseBox",
+		"onResize"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "595pt",
+		"paperHeight": "842pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Rectangle1": {
+					"type": "rectangle",
+					"top": 102,
+					"left": 850,
+					"width": 383,
+					"height": 357,
+					"fill": "#FFFFC0",
+					"stroke": "transparent"
+				},
+				"Fnd_IO_HideThisText3": {
+					"type": "text",
+					"top": 105,
+					"left": 857,
+					"width": 376,
+					"height": 338,
+					"stroke": "#EE0000",
+					"class": "Default",
+					"text": "Copy the items from this page to your new input form\r\rEnable these form events:\r  - On Load\r  - On Validate\r  - On Activate\r  - On Close Box\r  - On Outside Call\r  - On Clicked\r  - On Data Change\r  - On Resize\r\rInherit the Fnd_IO_InputForm form\r\rAssociate and Activate the Fnd_Shell, then select <None>\r\rSet the window size to 450 x 300 (optional)\r\rCall Fnd_IO_InputFormMethod from the form method\r\rModify the field labels and field objects as needed\r\rDelete this help object"
+				},
+				"Table Header": {
+					"type": "input",
+					"top": 20,
+					"left": 94,
+					"width": 653,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "left",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "raised",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Table Header.4dm",
+					"events": [
+						"onLoad"
+					]
+				},
+				"Fnd_IO_Field2": {
+					"type": "input",
+					"top": 51,
+					"left": 94,
+					"width": 653,
+					"height": 17,
+					"dataSource": "[PDF:5]Description:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"method": "ObjectMethods/Fnd_IO_Field2.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Text5": {
+					"type": "text",
+					"top": 20,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?1>: "
+				},
+				"Text1": {
+					"type": "text",
+					"top": 51,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?4>: "
+				},
+				"PDF_ExternalArea_i": {
+					"type": "plugin",
+					"top": 146,
+					"left": 40,
+					"width": 720,
+					"height": 474,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"pluginAreaKind": "_PDF Viewer",
+					"borderStyle": "sunken",
+					"events": [
+						"onClick",
+						"onPluginArea"
+					]
+				},
+				"PDF_Scale_r": {
+					"type": "ruler",
+					"top": 95,
+					"left": 398,
+					"width": 300,
+					"height": 40,
+					"sizingX": "grow",
+					"showGraduations": true,
+					"labelsPlacement": "right",
+					"max": 1600,
+					"graduationStep": 400,
+					"step": 10,
+					"numberFormat": "|Percent",
+					"class": "MacVet_Small",
+					"tooltip": {
+						"$ref": "/SOURCES/tips.json#/Untitled"
+					},
+					"method": "ObjectMethods/PDF_Scale_r.4dm",
+					"events": [
+						"onClick",
+						"onDataChange"
+					]
+				},
+				"Page_PDF_PageNumber_i": {
+					"type": "input",
+					"top": 101,
+					"left": 287,
+					"width": 40,
+					"height": 14,
+					"dataSourceTypeHint": "number",
+					"class": "MacVet_Small",
+					"textAlign": "center",
+					"contextMenu": "none",
+					"method": "ObjectMethods/Page_PDF_PageNumber_i.4dm",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"PDF_Scale_r1": {
+					"type": "input",
+					"top": 101,
+					"left": 702,
+					"width": 58,
+					"height": 14,
+					"sizingX": "move",
+					"dataSourceTypeHint": "number",
+					"class": "MacVet_Small",
+					"contextMenu": "none",
+					"numberFormat": {
+						"$ref": "/SOURCES/filters.json#/Percent"
+					},
+					"method": "ObjectMethods/PDF_Scale_r1.4dm",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Page_PDF_PageCount_i": {
+					"type": "input",
+					"top": 101,
+					"left": 357,
+					"width": 40,
+					"height": 14,
+					"dataSourceTypeHint": "number",
+					"class": "MacVet_Small",
+					"textAlign": "center",
+					"focusable": false,
+					"enterable": false,
+					"contextMenu": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Page_PDF_PrevButton_i": {
+					"type": "button",
+					"top": 80,
+					"left": 190,
+					"width": 40,
+					"height": 60,
+					"class": "MacVet_Small",
+					"focusable": false,
+					"text": "Prev",
+					"icon": "/RESOURCES/Fnd_Tlbr_Images/WGD_PDF_PrevPage.png",
+					"iconFrames": 4,
+					"style": "toolbar",
+					"method": "ObjectMethods/Page_PDF_PrevButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Page_PDF_NextButton_i": {
+					"type": "button",
+					"top": 80,
+					"left": 240,
+					"width": 40,
+					"height": 60,
+					"class": "MacVet_Small",
+					"focusable": false,
+					"text": "Next",
+					"icon": "/RESOURCES/Fnd_Tlbr_Images/WGD_PDF_NextPage.png",
+					"iconFrames": 4,
+					"style": "toolbar",
+					"method": "ObjectMethods/Page_PDF_NextButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"Page_Text1": {
+					"type": "text",
+					"top": 101,
+					"left": 333,
+					"width": 18,
+					"height": 14,
+					"class": "MacVet_Small",
+					"textAlign": "center",
+					"text": "of"
+				},
+				"Page_Text2": {
+					"type": "text",
+					"top": 119,
+					"left": 323,
+					"width": 38,
+					"height": 14,
+					"class": "MacVet_Small",
+					"textAlign": "center",
+					"text": "Page"
+				},
+				"Text3": {
+					"type": "text",
+					"top": 119,
+					"left": 712,
+					"width": 38,
+					"height": 14,
+					"sizingX": "move",
+					"class": "MacVet_Small",
+					"textAlign": "center",
+					"text": "Zoom"
+				},
+				"PDF_OpenButton_i": {
+					"type": "button",
+					"top": 80,
+					"left": 90,
+					"width": 40,
+					"height": 60,
+					"class": "MacVet_Small",
+					"focusable": false,
+					"text": "Import",
+					"icon": "/RESOURCES/Fnd_Tlbr_Images/WGD_PDF_Open.png",
+					"iconFrames": 4,
+					"style": "toolbar",
+					"method": "ObjectMethods/PDF_OpenButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"PDF_SaveButton_i": {
+					"type": "button",
+					"top": 80,
+					"left": 140,
+					"width": 40,
+					"height": 60,
+					"class": "MacVet_Small",
+					"focusable": false,
+					"text": "Export",
+					"icon": "/RESOURCES/Fnd_Tlbr_Images/WGD_PDF_Open.png",
+					"iconFrames": 4,
+					"style": "toolbar",
+					"method": "ObjectMethods/PDF_SaveButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"PDF_PrintButton_i": {
+					"type": "button",
+					"top": 80,
+					"left": 40,
+					"width": 40,
+					"height": 60,
+					"class": "MacVet_Small",
+					"focusable": false,
+					"text": "Print",
+					"icon": "/RESOURCES/Fnd_Tlbr_Images/WGD_PDF_Print.png",
+					"iconFrames": 4,
+					"style": "toolbar",
+					"method": "ObjectMethods/PDF_PrintButton_i.4dm",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		}
+	],
+	"editor": {
+		"groups": {
+			"Group3": [
+				"Rectangle1",
+				"Fnd_IO_HideThisText3"
+			]
+		}
+	}
+}

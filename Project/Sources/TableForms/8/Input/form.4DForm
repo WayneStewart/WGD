@@ -1,0 +1,233 @@
+﻿{
+	"destination": "detailScreen",
+	"inheritedForm": "Fnd_IO_InputForm",
+	"rightMargin": 20,
+	"bottomMargin": 60,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onActivate",
+		"onDataChange",
+		"onCloseBox",
+		"onResize"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "842pt",
+		"paperHeight": "595pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Text10": {
+					"type": "text",
+					"top": 51,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?2>: "
+				},
+				"Fnd_IO_Field1": {
+					"type": "input",
+					"top": 20,
+					"left": 94,
+					"width": 113,
+					"height": 17,
+					"dataSource": "[Vet:8]ID:1",
+					"dataSourceTypeHint": "integer",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "raised",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field2": {
+					"type": "input",
+					"top": 51,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Vet:8]ClinicName:2",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text5": {
+					"type": "text",
+					"top": 20,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?1>: "
+				},
+				"Fnd_IO_Field3": {
+					"type": "input",
+					"top": 82,
+					"left": 94,
+					"width": 333,
+					"height": 57,
+					"dataSource": "[Vet:8]Address:3",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text2": {
+					"type": "text",
+					"top": 82,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?3>: "
+				},
+				"Text3": {
+					"type": "text",
+					"top": 185,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?6>: "
+				},
+				"Fnd_IO_Field5": {
+					"type": "input",
+					"top": 154,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Vet:8]UsualVet:5",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field6": {
+					"type": "input",
+					"top": 185,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Vet:8]Email:6",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text4": {
+					"type": "text",
+					"top": 154,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?5>: "
+				},
+				"Text6": {
+					"type": "text",
+					"top": 247,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?8>: "
+				},
+				"Fnd_IO_Field7": {
+					"type": "input",
+					"top": 216,
+					"left": 94,
+					"width": 333,
+					"height": 17,
+					"dataSource": "[Vet:8]www:7",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field8": {
+					"type": "input",
+					"top": 247,
+					"left": 94,
+					"width": 317,
+					"height": 113,
+					"dataSource": "[Vet:8]Notes:8",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"scrollbarVertical": "visible",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text7": {
+					"type": "text",
+					"top": 216,
+					"left": 8,
+					"width": 76,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?7>: "
+				}
+			}
+		}
+	]
+}

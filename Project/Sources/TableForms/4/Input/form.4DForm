@@ -1,0 +1,518 @@
+﻿{
+	"destination": "detailScreen",
+	"inheritedForm": "Fnd_IO_InputForm",
+	"windowMinWidth": 512,
+	"windowMinHeight": 535,
+	"rightMargin": 20,
+	"bottomMargin": 60,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onActivate",
+		"onDataChange",
+		"onCloseBox",
+		"onResize"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "842pt",
+		"paperHeight": "595pt"
+	},
+	"pages": [
+		{
+			"objects": {
+				"Text10": {
+					"type": "text",
+					"top": 51,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?2>: "
+				},
+				"Fnd_IO_Field1": {
+					"type": "input",
+					"top": 20,
+					"left": 114,
+					"width": 78,
+					"height": 17,
+					"dataSource": "[Client:4]ID:1",
+					"dataSourceTypeHint": "integer",
+					"stroke": "#000000",
+					"class": "Large_Plain",
+					"textAlign": "left",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "raised",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field2": {
+					"type": "input",
+					"top": 51,
+					"left": 114,
+					"width": 233,
+					"height": 17,
+					"dataSource": "[Client:4]PrimaryContact:2",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"[client]p_dob": {
+					"type": "subform",
+					"top": 47,
+					"left": 354,
+					"width": 138,
+					"height": 25,
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/[client]p_dob.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field3": {
+					"type": "input",
+					"top": 82,
+					"left": 114,
+					"width": 233,
+					"height": 17,
+					"dataSource": "[Client:4]Alternate_01:3",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"A01_DoB": {
+					"type": "subform",
+					"top": 78,
+					"left": 354,
+					"width": 138,
+					"height": 25,
+					"dataSource": "[Client:4]A01_DoB:10",
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/A01_DoB.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field4": {
+					"type": "input",
+					"top": 113,
+					"left": 114,
+					"width": 233,
+					"height": 17,
+					"dataSource": "[Client:4]Alternate_02:4",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"A02_DoB": {
+					"type": "subform",
+					"top": 109,
+					"left": 354,
+					"width": 138,
+					"height": 25,
+					"dataSource": "[Client:4]A02_DoB:11",
+					"dataSourceTypeHint": "date",
+					"detailForm": "DateEntry",
+					"hideFocusRing": true,
+					"deletableInList": false,
+					"doubleClickInRowAction": "editSubrecord",
+					"doubleClickInEmptyAreaAction": "addSubrecord",
+					"selectionMode": "multiple",
+					"printFrame": "variable",
+					"method": "ObjectMethods/A02_DoB.4dm",
+					"events": [
+						"onLoad",
+						"onDataChange"
+					]
+				},
+				"Text5": {
+					"type": "text",
+					"top": 20,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?1>: "
+				},
+				"Text1": {
+					"type": "text",
+					"top": 113,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?4>: "
+				},
+				"Text2": {
+					"type": "text",
+					"top": 82,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?3>: "
+				},
+				"Tab Control": {
+					"type": "tab",
+					"top": 144,
+					"left": 23,
+					"width": 469,
+					"height": 331,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSourceTypeHint": "arrayText",
+					"labels": [
+						"Details",
+						"PDFs"
+					],
+					"action": "GotoPage",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"Fnd_IO_Field5": {
+					"type": "input",
+					"top": 178,
+					"left": 114,
+					"width": 359,
+					"height": 53,
+					"dataSource": "[Client:4]Address:5",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field6": {
+					"type": "input",
+					"top": 239,
+					"left": 114,
+					"width": 173,
+					"height": 17,
+					"dataSource": "[Client:4]City:6",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field7": {
+					"type": "input",
+					"top": 239,
+					"left": 304,
+					"width": 33,
+					"height": 17,
+					"dataSource": "[Client:4]State:7",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field8": {
+					"type": "input",
+					"top": 239,
+					"left": 354,
+					"width": 93,
+					"height": 17,
+					"dataSource": "[Client:4]Postal Code:8",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field10": {
+					"type": "input",
+					"top": 270,
+					"left": 114,
+					"width": 359,
+					"height": 17,
+					"dataSource": "[Client:4]Email_Address:12",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field11": {
+					"type": "input",
+					"top": 301,
+					"left": 114,
+					"width": 359,
+					"height": 17,
+					"dataSource": "[Client:4]Mobile:15",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Fnd_IO_Field13": {
+					"type": "input",
+					"top": 360,
+					"left": 114,
+					"width": 359,
+					"height": 97,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "[Client:4]Notes:14",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"fill": "#FFFFFF",
+					"borderStyle": "sunken",
+					"styledText": true,
+					"allowFontColorPicker": true,
+					"dragging": "none",
+					"dropping": "none",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text3": {
+					"type": "text",
+					"top": 239,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?6>: "
+				},
+				"Text4": {
+					"type": "text",
+					"top": 178,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "<?5>: "
+				},
+				"Text6": {
+					"type": "text",
+					"top": 270,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Email: "
+				},
+				"Text9": {
+					"type": "text",
+					"top": 301,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Phone: "
+				},
+				"Text11": {
+					"type": "text",
+					"top": 360,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Notes"
+				},
+				"Fnd_IO_Field12": {
+					"type": "checkbox",
+					"top": 331,
+					"left": 114,
+					"width": 179,
+					"height": 18,
+					"dataSource": "[Client:4]CertificateOfDisability:13",
+					"text": "Certificate Of Disability",
+					"stroke": "#000000",
+					"textAlign": "left",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Text8": {
+					"type": "text",
+					"top": 332,
+					"left": 8,
+					"width": 96,
+					"height": 17,
+					"stroke": "#000000",
+					"textAlign": "right",
+					"text": "Certificate: "
+				},
+				"Button": {
+					"type": "button",
+					"top": 330,
+					"left": 405,
+					"width": 68,
+					"height": 20,
+					"text": "Show",
+					"focusable": false,
+					"method": "ObjectMethods/Button.4dm",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"PDF_List_Box": {
+					"type": "listbox",
+					"top": 206,
+					"left": 42,
+					"width": 429,
+					"height": 252,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"resizingMode": "legacy",
+					"listboxType": "currentSelection",
+					"dataSource": "PDF_List_Box_i",
+					"movableRows": false,
+					"rowHeight": "19px",
+					"table": 1,
+					"highlightSet": "$PDF_List_Box_iUserSet",
+					"selectionMode": "single",
+					"scrollbarHorizontal": "automatic",
+					"horizontalLineStroke": "transparent",
+					"verticalLineStroke": "transparent",
+					"method": "ObjectMethods/PDF_List_Box.4dm",
+					"events": [
+						"onLoad",
+						"onClick",
+						"onDoubleClick",
+						"onSelectionChange",
+						"onColumnMove",
+						"onColumnResize",
+						"onHeaderClick",
+						"onBeginDragOver"
+					],
+					"columns": []
+				},
+				"Button1": {
+					"type": "button",
+					"top": 170,
+					"left": 42,
+					"width": 68,
+					"height": 22,
+					"text": "New",
+					"focusable": false,
+					"method": "ObjectMethods/Button1.4dm",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		}
+	],
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {},
+			"View 4": {},
+			"View 5": {
+				"objects": [
+					"[client]p_dob"
+				]
+			},
+			"View 6": {},
+			"View 7": {},
+			"View 8": {},
+			"View 9": {}
+		}
+	}
+}

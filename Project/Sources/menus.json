@@ -1,0 +1,166 @@
+﻿{
+	"bars": [
+		{
+			"id": 1,
+			"name": "Fnd_Shell",
+			"items": [
+				{
+					"link": 1102
+				},
+				{
+					"link": 15446
+				},
+				{
+					"link": 4749
+				},
+				{
+					"link": 3913
+				}
+			]
+		}
+	],
+	"menus": [
+		{
+			"link": 1102,
+			"title": ":79,1",
+			"items": [
+				{
+					"title": "Start Foundation",
+					"method": "Fnd_Shell_OnStartup",
+					"shortcutAccel": true,
+					"shortcutKey": "S"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true,
+					"enabled": false
+				},
+				{
+					"title": "Show Splash Screen",
+					"method": "Fnd_Shell_Show4DSplashScreen"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true,
+					"enabled": false
+				},
+				{
+					"title": ":131,30",
+					"shortcutAccel": true,
+					"shortcutKey": "Q",
+					"action": "quit"
+				}
+			]
+		},
+		{
+			"link": 15446,
+			"title": ":79,5",
+			"items": [
+				{
+					"title": ":131,18",
+					"shortcutAccel": true,
+					"shortcutKey": "Z",
+					"action": "undo"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true
+				},
+				{
+					"title": ":131,20",
+					"shortcutAccel": true,
+					"shortcutKey": "X",
+					"action": "cut"
+				},
+				{
+					"title": ":131,21",
+					"shortcutAccel": true,
+					"shortcutKey": "C",
+					"action": "copy"
+				},
+				{
+					"title": ":131,22",
+					"shortcutShift": true,
+					"shortcutAccel": true,
+					"shortcutKey": "V",
+					"action": "paste"
+				},
+				{
+					"title": ":131,23",
+					"action": "clear"
+				},
+				{
+					"title": ":131,24",
+					"shortcutShift": true,
+					"shortcutAccel": true,
+					"shortcutKey": "A",
+					"action": "selectAll"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true
+				},
+				{
+					"title": ":131,25",
+					"action": "showClipboard"
+				}
+			]
+		},
+		{
+			"link": 4749,
+			"title": ":79,6",
+			"items": [
+				{
+					"title": ":131,27",
+					"shortcutAccel": true,
+					"shortcutKey": "Y",
+					"action": "design"
+				},
+				{
+					"title": ":131,29",
+					"state": "checked",
+					"shortcutShift": true,
+					"shortcutAccel": true,
+					"shortcutKey": "I",
+					"action": "application"
+				}
+			]
+		},
+		{
+			"link": 3913,
+			"title": "Tools",
+			"items": [
+				{
+					"title": "Component Report",
+					"method": "Fnd_Gen_ComponentReport"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true,
+					"enabled": false
+				},
+				{
+					"title": "Localization Editor",
+					"method": "Fnd_Loc_Editor"
+				},
+				{
+					"title": "Virtual Structure Lists...",
+					"method": "Fnd_VS_CreateNameLists"
+				},
+				{
+					"title": "Duplicate a 4D List...",
+					"method": "Fnd_Loc_DuplicateList"
+				},
+				{
+					"title": "(-",
+					"isSeparator": true,
+					"enabled": false
+				},
+				{
+					"title": "Remove Activation Code",
+					"method": "Fnd_Gen_RemoveActivationCode"
+				}
+			]
+		}
+	]
+}
