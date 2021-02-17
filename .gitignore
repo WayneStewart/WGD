@@ -1,18 +1,29 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Ignore everything at the root level
+/*
 
-# Other files and folders
-.settings/
+# Except:
+!.gitignore
+!Resources
+!Project
+!Components
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# You may want to include some of the following items.
+# If you do swap the # for and ! at that start of the line
+# optionally you should move it to the section above
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#Data 
+#Settings
+
+# Ignore these sub folders
+Project/DerivedData
+Project/BuildSettings
+
+Components/Cache
+Components/Hide
+
+Resources/Cache
+
+# Ignore everywhere.
+__MACOSX
+
+# End of File
