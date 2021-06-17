@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
-<base name="WGD" uuid="1BA494646E7444A7BFDEAAA3A52960E1" collation_locale="en">
+<base name="" uuid="1BA494646E7444A7BFDEAAA3A52960E1" collation_locale="en">
 	<schema name="DEFAULT_SCHEMA"/>
 	<table name="Reports" uuid="27CBC8512C8D4FF39A85764238040822" id="1" prevent_journaling="true">
 		<field name="ID" uuid="A3AA2098EAC84CEBADED91326129A783" type="4" unique="true" autosequence="true" never_null="true" id="1"/>
